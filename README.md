@@ -22,7 +22,7 @@ Weather description (e.g., clear sky, rain)
 Weather icon that visually represents the weather (e.g., sun, clouds)
 
 
-![Screenshot 2024-10-18 113601](https://github.com/user-attachments/assets/bd07dda0-8b54-40b3-bc4c-486189f95eba)
+
 
 
 3. Responsive and Interactive UI:
@@ -189,3 +189,6 @@ Use advanced CSS or front-end frameworks like Bootstrap to make the app more res
 3. Geolocation:
 
 Add functionality to fetch the user's current location using the browser's geolocation API and display the weather for their current city automatically.
+
+
+![Screenshot 2024-10-18 113601](https://github.com/user-attachments/assets/bd07dda0-8b54-40b3-bc4c-486189f95eba)
